@@ -1,7 +1,7 @@
 # Tentang Buku
 
 
-```{image} ../webmining/_static/luthfi.png
+```{image} ../webmining/tugas/luthfi.png
 :alt: fishy
 :class: bg-primary mb-1
 :width: 300px
